@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadAqeel1209](https://github.com/MuhammadAqeel1209)
 
-- 📫 How to reach me **muhmmadaqeeldeveloper@gmail.com**
+- 📫 How to reach me **aqeelshakeel892@gmail.com**
 
 - 📄 Know about my experiences [https://m-aqeel-portfolio.vercel.app/](https://m-aqeel-portfolio.vercel.app/)
 
